@@ -14,7 +14,7 @@ Review the network topology and configurations.
 
 <h3>Skills Demonstrated:
 
-Network topology design
+<h6>Network topology design
 
 IP addressing and subnetting
 
