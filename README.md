@@ -1,11 +1,10 @@
 <h3>Cisco Packet Tracer Projects:
 
-This repository contains networking simulation projects created using Cisco Packet Tracer.
+<h6>This repository contains networking simulation projects created using Cisco Packet Tracer.
 The labs cover various networking concepts such as IP addressing, routing, switching, VLANs, DHCP, and more.
 
 
-How to Use
-
+How to Use:
 Download the .pkt files from this repository.
 
 Open them in Cisco Packet Tracer.
@@ -13,7 +12,7 @@ Open them in Cisco Packet Tracer.
 Review the network topology and configurations.
 
 
-<h3>Skills Demonstrated
+<h3>Skills Demonstrated:
 
 Network topology design
 
